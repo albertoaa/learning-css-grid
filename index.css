@@ -13,7 +13,7 @@
 .menu {}
 
 .content {
-  grid-column: content;
+  grid-area: content;
 }
 
 .footer {
